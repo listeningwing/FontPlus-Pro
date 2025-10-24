@@ -1,5 +1,4 @@
-
-FontPlus Pro
+# FontPlus Pro
 
 Productive Font Utility
 
